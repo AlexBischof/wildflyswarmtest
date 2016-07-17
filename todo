@@ -1,0 +1,17 @@
+- elk
+- managementconsole unterschied zu wildfly8
+- cluster
+- rcscript
+- bootstrap v3 scaffold
+
+====
+Done
+====
+ - logging
+ - project stage
+ - cors
+ - async
+ - static content
+ - jpa
+ - ssl
+ - swagger

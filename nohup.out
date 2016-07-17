@@ -1,0 +1,238 @@
+[0m17:41:04,209 INFO  [org.jboss.msc] (main) JBoss MSC version 1.2.6.Final
+[0m[0m17:41:04,239 INFO  [org.jboss.msc] (main) JBoss MSC version 1.2.6.Final
+[0m[0m17:41:04,281 INFO  [org.jboss.msc] (main) JBoss MSC version 1.2.6.Final
+[0m[0m17:41:04,301 INFO  [org.jboss.msc] (main) JBoss MSC version 1.2.6.Final
+[0m[0m17:41:04,301 INFO  [org.jboss.msc] (main) JBoss MSC version 1.2.6.Final
+[0m[0m17:41:04,517 INFO  [org.jboss.as] (MSC service thread 1-6) WFLYSRV0049: WildFly Core 2.0.10.Final "Kenny" starting
+[0m[0m17:41:04,585 INFO  [org.jboss.as] (MSC service thread 1-6) WFLYSRV0049: WildFly Core 2.0.10.Final "Kenny" starting
+[0m[0m17:41:04,603 INFO  [org.jboss.as] (MSC service thread 1-6) WFLYSRV0049: WildFly Core 2.0.10.Final "Kenny" starting
+[0m[0m17:41:04,607 INFO  [org.jboss.as] (MSC service thread 1-6) WFLYSRV0049: WildFly Core 2.0.10.Final "Kenny" starting
+[0m[0m17:41:04,648 INFO  [org.jboss.as] (MSC service thread 1-7) WFLYSRV0049: WildFly Core 2.0.10.Final "Kenny" starting
+[0m[0m17:41:05,074 INFO  [stdout] (MSC service thread 1-2) WARN: You are running the monitoring endpoints without any security realm configuration!
+[0m[0m17:41:05,134 INFO  [stdout] (MSC service thread 1-1) WARN: You are running the monitoring endpoints without any security realm configuration!
+[0m[0m17:41:05,261 INFO  [stdout] (MSC service thread 1-8) WARN: You are running the monitoring endpoints without any security realm configuration!
+[0m2016-07-16 17:41:05,358 INFO  [org.wildfly.extension.io] (ServerService Thread Pool -- 11) WFLYIO001: Worker 'default' has auto-configured to 16 core threads with 128 task threads based on your 8 available processors
+2016-07-16 17:41:05,393 INFO  [org.jboss.as.naming] (ServerService Thread Pool -- 13) WFLYNAM0001: Activating Naming Subsystem
+2016-07-16 17:41:05,395 INFO  [org.jboss.as.security] (ServerService Thread Pool -- 15) WFLYSEC0002: Activating Security Subsystem
+2016-07-16 17:41:05,396 INFO  [org.jboss.as.security] (MSC service thread 1-5) WFLYSEC0001: Current PicketBox version=4.9.4.Final
+2016-07-16 17:41:05,404 INFO  [org.jboss.as.naming] (MSC service thread 1-4) WFLYNAM0003: Starting Naming Service
+2016-07-16 17:41:05,420 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 16) WFLYUT0003: Undertow 1.3.15.Final starting
+2016-07-16 17:41:05,420 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0003: Undertow 1.3.15.Final starting
+[0m17:41:05,428 INFO  [stdout] (MSC service thread 1-6) WARN: You are running the monitoring endpoints without any security realm configuration!
+[0m2016-07-16 17:41:05,457 INFO  [org.xnio] (MSC service thread 1-1) XNIO version 3.3.4.Final
+2016-07-16 17:41:05,466 INFO  [org.xnio.nio] (MSC service thread 1-1) XNIO NIO Implementation Version 3.3.4.Final
+2016-07-16 17:41:05,551 INFO  [org.jboss.as.naming] (ServerService Thread Pool -- 13) WFLYNAM0001: Activating Naming Subsystem
+2016-07-16 17:41:05,574 INFO  [org.jboss.as.security] (ServerService Thread Pool -- 15) WFLYSEC0002: Activating Security Subsystem
+2016-07-16 17:41:05,581 INFO  [org.jboss.as.security] (MSC service thread 1-6) WFLYSEC0001: Current PicketBox version=4.9.4.Final
+2016-07-16 17:41:05,583 INFO  [org.wildfly.extension.io] (ServerService Thread Pool -- 11) WFLYIO001: Worker 'default' has auto-configured to 16 core threads with 128 task threads based on your 8 available processors
+2016-07-16 17:41:05,584 INFO  [org.jboss.as.naming] (MSC service thread 1-7) WFLYNAM0003: Starting Naming Service
+[0m17:41:05,601 INFO  [stdout] (MSC service thread 1-8) WARN: You are running the monitoring endpoints without any security realm configuration!
+[0m2016-07-16 17:41:05,615 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 16) WFLYUT0003: Undertow 1.3.15.Final starting
+2016-07-16 17:41:05,615 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0003: Undertow 1.3.15.Final starting
+2016-07-16 17:41:05,642 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0012: Started server default-server.
+2016-07-16 17:41:05,644 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0018: Host default-host starting
+2016-07-16 17:41:05,663 INFO  [org.xnio] (MSC service thread 1-2) XNIO version 3.3.4.Final
+2016-07-16 17:41:05,690 INFO  [org.jboss.as.naming] (ServerService Thread Pool -- 13) WFLYNAM0001: Activating Naming Subsystem
+2016-07-16 17:41:05,697 INFO  [org.wildfly.extension.io] (ServerService Thread Pool -- 11) WFLYIO001: Worker 'default' has auto-configured to 16 core threads with 128 task threads based on your 8 available processors
+2016-07-16 17:41:05,698 INFO  [org.jboss.as.security] (ServerService Thread Pool -- 15) WFLYSEC0002: Activating Security Subsystem
+2016-07-16 17:41:05,701 INFO  [org.xnio.nio] (MSC service thread 1-2) XNIO NIO Implementation Version 3.3.4.Final
+2016-07-16 17:41:05,701 INFO  [org.jboss.as.security] (MSC service thread 1-5) WFLYSEC0001: Current PicketBox version=4.9.4.Final
+2016-07-16 17:41:05,720 INFO  [org.jboss.as.naming] (MSC service thread 1-3) WFLYNAM0003: Starting Naming Service
+2016-07-16 17:41:05,747 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 16) WFLYUT0003: Undertow 1.3.15.Final starting
+2016-07-16 17:41:05,747 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0003: Undertow 1.3.15.Final starting
+2016-07-16 17:41:05,749 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0012: Started server default-server.
+2016-07-16 17:41:05,750 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0018: Host default-host starting
+2016-07-16 17:41:05,811 INFO  [org.xnio] (MSC service thread 1-5) XNIO version 3.3.4.Final
+2016-07-16 17:41:05,835 INFO  [org.xnio.nio] (MSC service thread 1-5) XNIO NIO Implementation Version 3.3.4.Final
+2016-07-16 17:41:05,875 INFO  [org.wildfly.extension.io] (ServerService Thread Pool -- 11) WFLYIO001: Worker 'default' has auto-configured to 16 core threads with 128 task threads based on your 8 available processors
+2016-07-16 17:41:05,880 INFO  [org.jboss.as.naming] (ServerService Thread Pool -- 13) WFLYNAM0001: Activating Naming Subsystem
+2016-07-16 17:41:05,887 INFO  [org.jboss.as.security] (ServerService Thread Pool -- 15) WFLYSEC0002: Activating Security Subsystem
+2016-07-16 17:41:05,892 INFO  [org.jboss.as.security] (MSC service thread 1-3) WFLYSEC0001: Current PicketBox version=4.9.4.Final
+2016-07-16 17:41:05,908 INFO  [org.jboss.as.naming] (MSC service thread 1-4) WFLYNAM0003: Starting Naming Service
+2016-07-16 17:41:05,933 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0003: Undertow 1.3.15.Final starting
+2016-07-16 17:41:05,933 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 16) WFLYUT0003: Undertow 1.3.15.Final starting
+2016-07-16 17:41:05,971 INFO  [org.xnio] (MSC service thread 1-8) XNIO version 3.3.4.Final
+2016-07-16 17:41:05,976 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0012: Started server default-server.
+2016-07-16 17:41:05,977 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0018: Host default-host starting
+2016-07-16 17:41:05,977 INFO  [org.xnio.nio] (MSC service thread 1-8) XNIO NIO Implementation Version 3.3.4.Final
+2016-07-16 17:41:05,998 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creating http management service using socket-binding (management-http)
+2016-07-16 17:41:05,998 WARN  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0035: No security realm defined for http management service; all access will be unrestricted.
+2016-07-16 17:41:06,015 INFO  [org.wildfly.extension.io] (ServerService Thread Pool -- 11) WFLYIO001: Worker 'default' has auto-configured to 16 core threads with 128 task threads based on your 8 available processors
+2016-07-16 17:41:06,018 INFO  [org.jboss.as.naming] (ServerService Thread Pool -- 13) WFLYNAM0001: Activating Naming Subsystem
+2016-07-16 17:41:06,018 INFO  [org.jboss.remoting] (MSC service thread 1-3) JBoss Remoting version 4.0.18.Final
+2016-07-16 17:41:06,020 INFO  [org.jboss.as.security] (ServerService Thread Pool -- 15) WFLYSEC0002: Activating Security Subsystem
+2016-07-16 17:41:06,025 INFO  [org.jboss.as.security] (MSC service thread 1-5) WFLYSEC0001: Current PicketBox version=4.9.4.Final
+2016-07-16 17:41:06,042 INFO  [org.jboss.as.naming] (MSC service thread 1-4) WFLYNAM0003: Starting Naming Service
+2016-07-16 17:41:06,065 ERROR [org.jboss.as.domain.http.api.undertow] (MSC service thread 1-2) WFLYDMHTTP0004: Unable to load error context for slot main, disabling error context.
+2016-07-16 17:41:06,068 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0003: Undertow 1.3.15.Final starting
+2016-07-16 17:41:06,068 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 16) WFLYUT0003: Undertow 1.3.15.Final starting
+2016-07-16 17:41:06,105 INFO  [org.xnio] (MSC service thread 1-4) XNIO version 3.3.4.Final
+2016-07-16 17:41:06,111 INFO  [org.xnio.nio] (MSC service thread 1-4) XNIO NIO Implementation Version 3.3.4.Final
+2016-07-16 17:41:06,126 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creating http management service using socket-binding (management-http)
+2016-07-16 17:41:06,126 WARN  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0035: No security realm defined for http management service; all access will be unrestricted.
+2016-07-16 17:41:06,162 INFO  [org.jboss.remoting] (MSC service thread 1-8) JBoss Remoting version 4.0.18.Final
+2016-07-16 17:41:06,181 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-4) WFLYUT0012: Started server default-server.
+2016-07-16 17:41:06,182 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-4) WFLYUT0018: Host default-host starting
+2016-07-16 17:41:06,201 ERROR [org.jboss.as.domain.http.api.undertow] (MSC service thread 1-7) WFLYDMHTTP0004: Unable to load error context for slot main, disabling error context.
+2016-07-16 17:41:06,219 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-4) WFLYUT0012: Started server default-server.
+2016-07-16 17:41:06,220 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0018: Host default-host starting
+2016-07-16 17:41:06,278 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creating http management service using socket-binding (management-http)
+2016-07-16 17:41:06,278 WARN  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0035: No security realm defined for http management service; all access will be unrestricted.
+2016-07-16 17:41:06,316 INFO  [org.jboss.remoting] (MSC service thread 1-6) JBoss Remoting version 4.0.18.Final
+2016-07-16 17:41:06,318 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://[0:0:0:0:0:0:0:0]:9991/management
+2016-07-16 17:41:06,318 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0054: Admin console is not enabled
+2016-07-16 17:41:06,318 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Core 2.0.10.Final "Kenny" started in 2132ms - Started 84 of 93 services (20 services are lazy, passive or on-demand)
+2016-07-16 17:41:06,326 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0006: Undertow HTTP listener default listening on [0:0:0:0:0:0:0:0]:8081
+2016-07-16 17:41:06,346 INFO  [stdout] (main) Adding /health endpoint delegate: /app/health
+2016-07-16 17:41:06,346 INFO  [stdout] (main) Adding /health endpoint delegate: /app/second-health
+2016-07-16 17:41:06,392 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creating http management service using socket-binding (management-http)
+2016-07-16 17:41:06,392 WARN  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0035: No security realm defined for http management service; all access will be unrestricted.
+2016-07-16 17:41:06,402 INFO  [org.wildfly.swarm.runtime.deployer] (main) deploying wildflyswarmtest-1.0-SNAPSHOT.jar
+2016-07-16 17:41:06,407 ERROR [org.jboss.as.domain.http.api.undertow] (MSC service thread 1-2) WFLYDMHTTP0004: Unable to load error context for slot main, disabling error context.
+2016-07-16 17:41:06,418 INFO  [org.jboss.remoting] (MSC service thread 1-8) JBoss Remoting version 4.0.18.Final
+2016-07-16 17:41:06,433 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-8) WFLYSRV0027: Starting deployment of "wildflyswarmtest-1.0-SNAPSHOT.jar" (runtime-name: "wildflyswarmtest-1.0-SNAPSHOT.jar")
+2016-07-16 17:41:06,484 ERROR [org.jboss.as.domain.http.api.undertow] (MSC service thread 1-4) WFLYDMHTTP0004: Unable to load error context for slot main, disabling error context.
+2016-07-16 17:41:06,521 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creating http management service using socket-binding (management-http)
+2016-07-16 17:41:06,521 WARN  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0035: No security realm defined for http management service; all access will be unrestricted.
+2016-07-16 17:41:06,528 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://[0:0:0:0:0:0:0:0]:9994/management
+2016-07-16 17:41:06,528 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0054: Admin console is not enabled
+2016-07-16 17:41:06,528 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Core 2.0.10.Final "Kenny" started in 2470ms - Started 84 of 93 services (20 services are lazy, passive or on-demand)
+2016-07-16 17:41:06,539 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0006: Undertow HTTP listener default listening on [0:0:0:0:0:0:0:0]:8084
+2016-07-16 17:41:06,561 INFO  [stdout] (main) Adding /health endpoint delegate: /app/health
+2016-07-16 17:41:06,561 INFO  [stdout] (main) Adding /health endpoint delegate: /app/second-health
+2016-07-16 17:41:06,564 INFO  [org.jboss.remoting] (MSC service thread 1-8) JBoss Remoting version 4.0.18.Final
+2016-07-16 17:41:06,607 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://[0:0:0:0:0:0:0:0]:9993/management
+2016-07-16 17:41:06,610 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0054: Admin console is not enabled
+2016-07-16 17:41:06,610 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Core 2.0.10.Final "Kenny" started in 2442ms - Started 84 of 93 services (20 services are lazy, passive or on-demand)
+2016-07-16 17:41:06,615 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0006: Undertow HTTP listener default listening on [0:0:0:0:0:0:0:0]:8083
+2016-07-16 17:41:06,646 INFO  [org.wildfly.swarm.runtime.deployer] (main) deploying wildflyswarmtest-1.0-SNAPSHOT.jar
+2016-07-16 17:41:06,663 INFO  [stdout] (main) Adding /health endpoint delegate: /app/health
+2016-07-16 17:41:06,664 INFO  [stdout] (main) Adding /health endpoint delegate: /app/second-health
+2016-07-16 17:41:06,668 INFO  [org.jboss.as.server] (main) WFLYSRV0010: Deployed "wildflyswarmtest-1.0-SNAPSHOT.jar" (runtime-name : "wildflyswarmtest-1.0-SNAPSHOT.jar")
+2016-07-16 17:41:06,673 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-4) WFLYSRV0027: Starting deployment of "wildflyswarmtest-1.0-SNAPSHOT.jar" (runtime-name: "wildflyswarmtest-1.0-SNAPSHOT.jar")
+2016-07-16 17:41:06,735 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://[0:0:0:0:0:0:0:0]:9995/management
+2016-07-16 17:41:06,735 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0006: Undertow HTTP listener default listening on [0:0:0:0:0:0:0:0]:8085
+2016-07-16 17:41:06,736 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0054: Admin console is not enabled
+2016-07-16 17:41:06,736 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Core 2.0.10.Final "Kenny" started in 2568ms - Started 84 of 93 services (20 services are lazy, passive or on-demand)
+2016-07-16 17:41:06,752 INFO  [stdout] (main) Adding /health endpoint delegate: /app/health
+2016-07-16 17:41:06,752 INFO  [stdout] (main) Adding /health endpoint delegate: /app/second-health
+2016-07-16 17:41:06,769 INFO  [org.wildfly.swarm.runtime.deployer] (main) deploying wildflyswarmtest-1.0-SNAPSHOT.jar
+2016-07-16 17:41:06,770 ERROR [org.jboss.as.domain.http.api.undertow] (MSC service thread 1-1) WFLYDMHTTP0004: Unable to load error context for slot main, disabling error context.
+2016-07-16 17:41:06,803 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-3) WFLYSRV0027: Starting deployment of "wildflyswarmtest-1.0-SNAPSHOT.jar" (runtime-name: "wildflyswarmtest-1.0-SNAPSHOT.jar")
+2016-07-16 17:41:06,843 INFO  [org.wildfly.swarm.runtime.deployer] (main) deploying wildflyswarmtest-1.0-SNAPSHOT.jar
+2016-07-16 17:41:06,879 INFO  [org.jboss.as.server] (main) WFLYSRV0010: Deployed "wildflyswarmtest-1.0-SNAPSHOT.jar" (runtime-name : "wildflyswarmtest-1.0-SNAPSHOT.jar")
+2016-07-16 17:41:06,880 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-8) WFLYSRV0027: Starting deployment of "wildflyswarmtest-1.0-SNAPSHOT.jar" (runtime-name: "wildflyswarmtest-1.0-SNAPSHOT.jar")
+2016-07-16 17:41:06,945 INFO  [org.jboss.as.server] (main) WFLYSRV0010: Deployed "wildflyswarmtest-1.0-SNAPSHOT.jar" (runtime-name : "wildflyswarmtest-1.0-SNAPSHOT.jar")
+2016-07-16 17:41:06,970 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://[0:0:0:0:0:0:0:0]:9992/management
+2016-07-16 17:41:06,972 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0054: Admin console is not enabled
+2016-07-16 17:41:06,972 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Core 2.0.10.Final "Kenny" started in 2865ms - Started 84 of 93 services (20 services are lazy, passive or on-demand)
+2016-07-16 17:41:06,976 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0006: Undertow HTTP listener default listening on [0:0:0:0:0:0:0:0]:8082
+2016-07-16 17:41:06,996 INFO  [stdout] (main) Adding /health endpoint delegate: /app/health
+2016-07-16 17:41:06,996 INFO  [stdout] (main) Adding /health endpoint delegate: /app/second-health
+2016-07-16 17:41:07,054 INFO  [org.wildfly.swarm.runtime.deployer] (main) deploying wildflyswarmtest-1.0-SNAPSHOT.jar
+2016-07-16 17:41:07,091 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-8) WFLYSRV0027: Starting deployment of "wildflyswarmtest-1.0-SNAPSHOT.jar" (runtime-name: "wildflyswarmtest-1.0-SNAPSHOT.jar")
+2016-07-16 17:41:07,101 INFO  [org.jboss.as.server] (main) WFLYSRV0010: Deployed "wildflyswarmtest-1.0-SNAPSHOT.jar" (runtime-name : "wildflyswarmtest-1.0-SNAPSHOT.jar")
+2016-07-16 17:41:07,287 INFO  [org.jboss.as.server] (main) WFLYSRV0010: Deployed "wildflyswarmtest-1.0-SNAPSHOT.jar" (runtime-name : "wildflyswarmtest-1.0-SNAPSHOT.jar")
+2016-07-16 17:42:18,423 INFO  [org.jboss.as.server] (Thread-4) WFLYSRV0220: Server shutdown has been requested.
+2016-07-16 17:42:18,423 INFO  [org.jboss.as.server] (Thread-4) WFLYSRV0220: Server shutdown has been requested.
+2016-07-16 17:42:18,423 INFO  [org.jboss.as.server] (Thread-4) WFLYSRV0220: Server shutdown has been requested.
+2016-07-16 17:42:18,423 INFO  [org.jboss.as.server] (Thread-4) WFLYSRV0220: Server shutdown has been requested.
+2016-07-16 17:42:18,452 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0008: Undertow HTTP listener default suspending
+2016-07-16 17:42:18,454 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0019: Host default-host stopping
+2016-07-16 17:42:18,454 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0019: Host default-host stopping
+2016-07-16 17:42:18,454 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-4) WFLYUT0019: Host default-host stopping
+2016-07-16 17:42:18,456 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0008: Undertow HTTP listener default suspending
+2016-07-16 17:42:18,458 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0007: Undertow HTTP listener default stopped, was bound to [0:0:0:0:0:0:0:0]:8080
+2016-07-16 17:42:18,461 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0008: Undertow HTTP listener default suspending
+2016-07-16 17:42:18,463 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0004: Undertow 1.3.15.Final stopping
+2016-07-16 17:42:18,464 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0007: Undertow HTTP listener default stopped, was bound to [0:0:0:0:0:0:0:0]:8080
+2016-07-16 17:42:18,467 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0007: Undertow HTTP listener default stopped, was bound to [0:0:0:0:0:0:0:0]:8080
+2016-07-16 17:42:18,471 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0004: Undertow 1.3.15.Final stopping
+2016-07-16 17:42:18,475 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-3) WFLYSRV0028: Stopped deployment wildflyswarmtest-1.0-SNAPSHOT.jar (runtime-name: wildflyswarmtest-1.0-SNAPSHOT.jar) in 42ms
+2016-07-16 17:42:18,475 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0004: Undertow 1.3.15.Final stopping
+2016-07-16 17:42:18,481 INFO  [org.jboss.as] (MSC service thread 1-6) WFLYSRV0050: WildFly Core 2.0.10.Final "Kenny" stopped in 47ms
+2016-07-16 17:42:18,482 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-6) WFLYSRV0028: Stopped deployment wildflyswarmtest-1.0-SNAPSHOT.jar (runtime-name: wildflyswarmtest-1.0-SNAPSHOT.jar) in 46ms
+2016-07-16 17:42:18,483 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-1) WFLYSRV0028: Stopped deployment wildflyswarmtest-1.0-SNAPSHOT.jar (runtime-name: wildflyswarmtest-1.0-SNAPSHOT.jar) in 42ms
+2016-07-16 17:42:18,485 INFO  [org.jboss.as] (MSC service thread 1-5) WFLYSRV0050: WildFly Core 2.0.10.Final "Kenny" stopped in 19ms
+2016-07-16 17:42:18,485 INFO  [org.jboss.as] (MSC service thread 1-5) WFLYSRV0050: WildFly Core 2.0.10.Final "Kenny" stopped in 43ms
+2016-07-16 17:42:18,560 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0008: Undertow HTTP listener default suspending
+2016-07-16 17:42:18,562 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0019: Host default-host stopping
+2016-07-16 17:42:18,563 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0007: Undertow HTTP listener default stopped, was bound to [0:0:0:0:0:0:0:0]:8080
+2016-07-16 17:42:18,565 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0004: Undertow 1.3.15.Final stopping
+2016-07-16 17:42:18,567 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-4) WFLYSRV0028: Stopped deployment wildflyswarmtest-1.0-SNAPSHOT.jar (runtime-name: wildflyswarmtest-1.0-SNAPSHOT.jar) in 134ms
+2016-07-16 17:42:18,569 INFO  [org.jboss.as] (MSC service thread 1-2) WFLYSRV0050: WildFly Core 2.0.10.Final "Kenny" stopped in 136ms
+2016-07-16 17:42:29,231 INFO  [org.jboss.as.server] (Thread-4) WFLYSRV0220: Server shutdown has been requested.
+2016-07-16 17:42:29,243 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-4) WFLYUT0019: Host default-host stopping
+2016-07-16 17:42:29,243 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0008: Undertow HTTP listener default suspending
+2016-07-16 17:42:29,248 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0007: Undertow HTTP listener default stopped, was bound to [0:0:0:0:0:0:0:0]:8080
+2016-07-16 17:42:29,249 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-4) WFLYUT0004: Undertow 1.3.15.Final stopping
+2016-07-16 17:42:29,249 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-6) WFLYSRV0028: Stopped deployment wildflyswarmtest-1.0-SNAPSHOT.jar (runtime-name: wildflyswarmtest-1.0-SNAPSHOT.jar) in 13ms
+2016-07-16 17:42:29,256 INFO  [org.jboss.as] (MSC service thread 1-4) WFLYSRV0050: WildFly Core 2.0.10.Final "Kenny" stopped in 18ms
+[0m17:43:47,589 INFO  [org.jboss.msc] (main) JBoss MSC version 1.2.6.Final
+[0m[0m17:43:47,590 INFO  [org.jboss.msc] (main) JBoss MSC version 1.2.6.Final
+[0m[0m17:43:47,687 INFO  [org.jboss.as] (MSC service thread 1-6) WFLYSRV0049: WildFly Core 2.0.10.Final "Kenny" starting
+[0m[0m17:43:47,689 INFO  [org.jboss.as] (MSC service thread 1-6) WFLYSRV0049: WildFly Core 2.0.10.Final "Kenny" starting
+[0m[0m17:43:47,963 INFO  [stdout] (MSC service thread 1-4) WARN: You are running the monitoring endpoints without any security realm configuration!
+[0m[0m17:43:47,970 INFO  [stdout] (MSC service thread 1-3) WARN: You are running the monitoring endpoints without any security realm configuration!
+[0m2016-07-16 17:43:48,176 INFO  [org.jboss.as.naming] (ServerService Thread Pool -- 13) WFLYNAM0001: Activating Naming Subsystem
+2016-07-16 17:43:48,177 INFO  [org.jboss.as.security] (ServerService Thread Pool -- 15) WFLYSEC0002: Activating Security Subsystem
+2016-07-16 17:43:48,177 INFO  [org.wildfly.extension.io] (ServerService Thread Pool -- 11) WFLYIO001: Worker 'default' has auto-configured to 16 core threads with 128 task threads based on your 8 available processors
+2016-07-16 17:43:48,179 INFO  [org.jboss.as.security] (MSC service thread 1-4) WFLYSEC0001: Current PicketBox version=4.9.4.Final
+2016-07-16 17:43:48,193 INFO  [org.jboss.as.naming] (MSC service thread 1-1) WFLYNAM0003: Starting Naming Service
+2016-07-16 17:43:48,203 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0003: Undertow 1.3.15.Final starting
+2016-07-16 17:43:48,203 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 16) WFLYUT0003: Undertow 1.3.15.Final starting
+2016-07-16 17:43:48,238 INFO  [org.xnio] (MSC service thread 1-4) XNIO version 3.3.4.Final
+2016-07-16 17:43:48,246 INFO  [org.xnio.nio] (MSC service thread 1-4) XNIO NIO Implementation Version 3.3.4.Final
+2016-07-16 17:43:48,254 INFO  [org.jboss.as.naming] (ServerService Thread Pool -- 13) WFLYNAM0001: Activating Naming Subsystem
+2016-07-16 17:43:48,255 INFO  [org.wildfly.extension.io] (ServerService Thread Pool -- 11) WFLYIO001: Worker 'default' has auto-configured to 16 core threads with 128 task threads based on your 8 available processors
+2016-07-16 17:43:48,264 INFO  [org.jboss.as.naming] (MSC service thread 1-1) WFLYNAM0003: Starting Naming Service
+2016-07-16 17:43:48,270 INFO  [org.jboss.as.security] (ServerService Thread Pool -- 15) WFLYSEC0002: Activating Security Subsystem
+2016-07-16 17:43:48,272 INFO  [org.jboss.as.security] (MSC service thread 1-1) WFLYSEC0001: Current PicketBox version=4.9.4.Final
+2016-07-16 17:43:48,293 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0012: Started server default-server.
+2016-07-16 17:43:48,294 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0018: Host default-host starting
+2016-07-16 17:43:48,313 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 16) WFLYUT0003: Undertow 1.3.15.Final starting
+2016-07-16 17:43:48,313 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0003: Undertow 1.3.15.Final starting
+2016-07-16 17:43:48,353 INFO  [org.xnio] (MSC service thread 1-3) XNIO version 3.3.4.Final
+2016-07-16 17:43:48,363 INFO  [org.xnio.nio] (MSC service thread 1-3) XNIO NIO Implementation Version 3.3.4.Final
+2016-07-16 17:43:48,404 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0012: Started server default-server.
+2016-07-16 17:43:48,406 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0018: Host default-host starting
+2016-07-16 17:43:48,441 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creating http management service using socket-binding (management-http)
+2016-07-16 17:43:48,441 WARN  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0035: No security realm defined for http management service; all access will be unrestricted.
+2016-07-16 17:43:48,462 INFO  [org.jboss.remoting] (MSC service thread 1-2) JBoss Remoting version 4.0.18.Final
+2016-07-16 17:43:48,498 ERROR [org.jboss.as.domain.http.api.undertow] (MSC service thread 1-7) WFLYDMHTTP0004: Unable to load error context for slot main, disabling error context.
+2016-07-16 17:43:48,565 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creating http management service using socket-binding (management-http)
+2016-07-16 17:43:48,565 WARN  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0035: No security realm defined for http management service; all access will be unrestricted.
+2016-07-16 17:43:48,585 INFO  [org.jboss.remoting] (MSC service thread 1-3) JBoss Remoting version 4.0.18.Final
+2016-07-16 17:43:48,614 ERROR [org.jboss.as.domain.http.api.undertow] (MSC service thread 1-4) WFLYDMHTTP0004: Unable to load error context for slot main, disabling error context.
+2016-07-16 17:43:48,630 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0006: Undertow HTTP listener default listening on [0:0:0:0:0:0:0:0]:8080
+2016-07-16 17:43:48,631 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://[0:0:0:0:0:0:0:0]:9990/management
+2016-07-16 17:43:48,631 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0054: Admin console is not enabled
+2016-07-16 17:43:48,631 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Core 2.0.10.Final "Kenny" started in 1473ms - Started 84 of 93 services (20 services are lazy, passive or on-demand)
+2016-07-16 17:43:48,650 INFO  [stdout] (main) Adding /health endpoint delegate: /app/health
+2016-07-16 17:43:48,651 INFO  [stdout] (main) Adding /health endpoint delegate: /app/second-health
+2016-07-16 17:43:48,719 INFO  [org.wildfly.swarm.runtime.deployer] (main) deploying wildflyswarmtest-1.0-SNAPSHOT.jar
+2016-07-16 17:43:48,730 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://[0:0:0:0:0:0:0:0]:9991/management
+2016-07-16 17:43:48,730 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0054: Admin console is not enabled
+2016-07-16 17:43:48,730 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Core 2.0.10.Final "Kenny" started in 1600ms - Started 84 of 93 services (20 services are lazy, passive or on-demand)
+2016-07-16 17:43:48,734 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0006: Undertow HTTP listener default listening on [0:0:0:0:0:0:0:0]:8081
+2016-07-16 17:43:48,748 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-4) WFLYSRV0027: Starting deployment of "wildflyswarmtest-1.0-SNAPSHOT.jar" (runtime-name: "wildflyswarmtest-1.0-SNAPSHOT.jar")
+2016-07-16 17:43:48,756 INFO  [stdout] (main) Adding /health endpoint delegate: /app/health
+2016-07-16 17:43:48,757 INFO  [stdout] (main) Adding /health endpoint delegate: /app/second-health
+2016-07-16 17:43:48,814 INFO  [org.wildfly.swarm.runtime.deployer] (main) deploying wildflyswarmtest-1.0-SNAPSHOT.jar
+2016-07-16 17:43:48,838 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-8) WFLYSRV0027: Starting deployment of "wildflyswarmtest-1.0-SNAPSHOT.jar" (runtime-name: "wildflyswarmtest-1.0-SNAPSHOT.jar")
+2016-07-16 17:43:48,922 INFO  [org.jboss.as.server] (main) WFLYSRV0010: Deployed "wildflyswarmtest-1.0-SNAPSHOT.jar" (runtime-name : "wildflyswarmtest-1.0-SNAPSHOT.jar")
+2016-07-16 17:43:49,007 INFO  [org.jboss.as.server] (main) WFLYSRV0010: Deployed "wildflyswarmtest-1.0-SNAPSHOT.jar" (runtime-name : "wildflyswarmtest-1.0-SNAPSHOT.jar")
+2016-07-16 17:44:11,506 INFO  [org.jboss.as.server] (Thread-4) WFLYSRV0220: Server shutdown has been requested.
+2016-07-16 17:44:11,519 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0019: Host default-host stopping
+2016-07-16 17:44:11,519 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0008: Undertow HTTP listener default suspending
+2016-07-16 17:44:11,520 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0007: Undertow HTTP listener default stopped, was bound to [0:0:0:0:0:0:0:0]:8080
+2016-07-16 17:44:11,521 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0004: Undertow 1.3.15.Final stopping
+2016-07-16 17:44:11,522 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-1) WFLYSRV0028: Stopped deployment wildflyswarmtest-1.0-SNAPSHOT.jar (runtime-name: wildflyswarmtest-1.0-SNAPSHOT.jar) in 7ms
+2016-07-16 17:44:11,530 INFO  [org.jboss.as] (MSC service thread 1-6) WFLYSRV0050: WildFly Core 2.0.10.Final "Kenny" stopped in 15ms
+2016-07-16 17:44:49,865 INFO  [org.jboss.as.server] (Thread-4) WFLYSRV0220: Server shutdown has been requested.
+2016-07-16 17:44:49,882 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0019: Host default-host stopping
+2016-07-16 17:44:49,882 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0008: Undertow HTTP listener default suspending
+2016-07-16 17:44:49,883 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0007: Undertow HTTP listener default stopped, was bound to [0:0:0:0:0:0:0:0]:8080
+2016-07-16 17:44:49,887 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0004: Undertow 1.3.15.Final stopping
+2016-07-16 17:44:49,892 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-5) WFLYSRV0028: Stopped deployment wildflyswarmtest-1.0-SNAPSHOT.jar (runtime-name: wildflyswarmtest-1.0-SNAPSHOT.jar) in 19ms
+2016-07-16 17:44:49,903 INFO  [org.jboss.as] (MSC service thread 1-3) WFLYSRV0050: WildFly Core 2.0.10.Final "Kenny" stopped in 29ms
